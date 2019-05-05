@@ -1,0 +1,1 @@
+sass --watch -s compressed thanks.scss:..\css\thanks.css

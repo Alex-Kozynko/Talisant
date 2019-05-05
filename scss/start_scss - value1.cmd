@@ -1,0 +1,1 @@
+sass --watch -s compressed value1.scss:..\css\value1.css
